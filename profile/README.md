@@ -2,7 +2,12 @@
 
 **Ship a game where players write real code. We handle the boring parts.**
 
-Compiler. VM. Terminal UI. Simulation clock. You bring the game.
+Arcade — tight loops, increasing difficulty, classic mechanics that teach game-loop fundamentals
+Puzzle — constraint satisfaction, state manipulation, algorithmic thinking
+Table — turn-based AI, probability, rule encoding, hand evaluation
+Combat — AI behaviors, physics, spawn/wave systems, hitbox logic
+Sim — real-world physics modeling, input-to-output mapping, continuous systems
+Sandbox — procedural generation, emergent systems, open-ended play, world persistence
 
 ## The Stack
 
