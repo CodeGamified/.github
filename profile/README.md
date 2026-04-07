@@ -1,5 +1,7 @@
 # CodeGamified
 
+EARTH: Every Algorithm Runs The Habitat.
+
 **Ship a game where players write real code. We handle the boring parts.**
 
 Arcade — tight loops, increasing difficulty, classic mechanics that teach game-loop fundamentals
